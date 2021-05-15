@@ -1,4 +1,6 @@
 print(scandalize)
 print(woo)
 print('destiny')
-print(last-destiny)
+print('last-destiny')
+print("OMG", 'its working')
+print('awful')
